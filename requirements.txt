@@ -1,3 +1,4 @@
+setuptools==80.9.0
 dlib-bin==20.0.1.post1
 face_recognition_models==0.3.0
 numpy==2.4.4
