@@ -1,0 +1,7 @@
+dlib-bin==20.0.1.post1
+face_recognition_models==0.3.0
+numpy==2.4.4
+pillow==12.1.1
+fastapi==0.151.0
+uvicorn==0.54.0
+python-multipart==0.0.32
